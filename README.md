@@ -11,6 +11,7 @@ réalisation d'une application de gestion de produits.
 **json-server** : Simulation de la partie back-end de l'application <br />
 **db.json** : Un fichier au format json, ajouté dans la racine du projet, et qui simule une base de données
 
+<br />
 ## 📌 Démo
 
 1 - Installez <a href="https://nodejs.org/en/download">**NodeJs**</a> s'il n'est pas déjà installé, après son installation tapez les commandes suivantes qui deveront afficher réspectivement la version de **NodeJs**, et du gestionnaire de dépendences **npm**
@@ -39,8 +40,10 @@ npm install
 npx ng serve
 ```
 
+<br />
 ## 🏁 Opérations CRUD :  
 
+<br />
 ### Accédez à la page "Produits :
 
 <img src="./imgs/products_list.png" alt="liste des produits" />
@@ -54,32 +57,39 @@ et injecte `product.html` dans l'élément **router-outlet** d'angular
 5 - L'état du modèle `ProductModel[]` sera modifié
 6 - Et grâce au **Data Binding** d'Angular, cet nouvel état va être refletée dans la vue `product.html`  
 
+<br />
 ### Cliquez sur le boutton "Ajouter un produit" pour afficher le formulaire d'ajout :
 
 <img src="./imgs/product_add.png" alt="Ajout d'un produit" />
 
+<br />
 ### Cliquez sur le boutton "Ajouter" pour ajouter ce nouveau produit :
 
 <img src="./imgs/products_list2.png" alt="Produit ajouté" />
 
+<br />
 ### Cliquer sur le boutton "Editer" pour afficher le formulaire de mise à jour d'un produit :
 
 <img src="./imgs/product_update.png" alt="Mise à jour d'un produit" />
 
+<br />
 ### Cliquer sur le boutton "Mettre à jour" pour enregistrer les modifications :
 
 <img src="./imgs/product_list3.png" alt="Mise à jour effectuée" />
 
+<br />
 ### Cliquez sur le boutton "Supprmier" pour supprimer un produit :
 
 <img src="./imgs/product_delete.png" alt="Demande de suppréssion du produit" />
 
+<br />
 ### Confirmez la suppréssion :
 
 <img src="./imgs/product_list4.png" alt="Suppréssion" />
 
+<br />
 <hr />
-
+<br />
 <p>🧑‍💻<b>Réalisé par : </b>Abdessamad Iliasse</p>
 <p>📚 <b>Sujet : </b>Angular Framework</p>
 <p>📅 <b>Année : </b>2024 - 2025</p>
