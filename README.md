@@ -38,7 +38,12 @@ cd your_home_directory/tp-angular
 npm install
 ```
 
-5 - Lancez l'application : 
+5 - Lancer le serveur **json-server**
+```
+npx json-server --watch db.json
+```
+
+6 - Lancez l'application : 
 ```
 npx ng serve
 ```
