@@ -13,8 +13,7 @@ réalisation d'une application de gestion de produits.
 
 ## 📌 Démo
 
-1 - Installez <a href="https://nodejs.org/en/download">**NodeJs**</a> s'il n'est pas déjà installé, après son installation tapez la commande suivante qui devera afficher 
-la version de ce logiciel, et la version du gestionnaire de dépendences **npm**
+1 - Installez <a href="https://nodejs.org/en/download">**NodeJs**</a> s'il n'est pas déjà installé, après son installation tapez les commandes suivantes qui deveront afficher réspectivement la version de **NodeJs**, et du gestionnaire de dépendences **npm**
 ```
 node -v 
 npm -v
