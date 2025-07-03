@@ -5,10 +5,10 @@ réalisation d'une application de gestion de produits.
 
 ## 📦 Dépendences de l'application
 
-**Angular 20** : Framework javascript pour le rendu HTML côté client
-**bootstrap 5** : Intégration de bootstrap css et bootstrap js
-**bootstrap-icons** : Intégration des icones bootstrap
-**json-server** : Simulation de la partie back-end de l'application
+**Angular 20** : Framework javascript pour le rendu HTML côté client <br />
+**bootstrap 5** : Intégration de bootstrap css et bootstrap js <br />
+**bootstrap-icons** : Intégration des icones bootstrap <br />
+**json-server** : Simulation de la partie back-end de l'application <br />
 **db.json** : Un fichier au format json, ajouté dans la racine du projet, et qui simule une base de données
 
 ## 📌 Démo
