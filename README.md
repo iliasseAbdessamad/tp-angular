@@ -40,7 +40,7 @@ npm install
 
 5 - Lancer le serveur **json-server**
 ```
-npx json-server --watch db.json
+npx json-server --watch db.json --port 3300
 ```
 
 6 - Lancez l'application : 
