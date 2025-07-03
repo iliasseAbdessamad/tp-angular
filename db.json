@@ -1,8 +1,28 @@
 {
-    "products": [
-        {"id": 1, "name": "Computer", "price": 2300.0, "published": true},
-        {"id": 2, "name": "Printer", "price": 3700.0, "published": true},
-        {"id": 3, "name": "Camera", "price": 299.9, "published": false},
-        {"id": 4, "name": "PlayStation 5", "price": 5000, "published": true},
-    ]
+  "products": [
+    {
+      "id": "1",
+      "name": "Computer Gmer",
+      "price": 12300,
+      "published": true
+    },
+    {
+      "id": "2",
+      "name": "Printer",
+      "price": 3700,
+      "published": true
+    },
+    {
+      "id": "3",
+      "name": "Camera",
+      "price": 299.9,
+      "published": false
+    },
+    {
+      "id": "4",
+      "name": "PlayStation 5",
+      "price": 5000,
+      "published": true
+    }
+  ]
 }

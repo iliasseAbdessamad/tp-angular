@@ -1,17 +1,21 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { RouterOutlet } from '@angular/router';
-import { Home } from "./components/home/home";
+import { RouterModule } from '@angular/router';
+
 
 @Component({
   selector: 'app-root',
   standalone: true,
   imports: [
     CommonModule,
-    Home
+    RouterModule
   ],
-  templateUrl: './app.html'
+  templateUrl: './app.html',
+  styleUrl: '../styles.css'
 })
 export class App {
-  protected appWelcomeMesage: String = "Welcome dear user, it's nice to meet you !"
+  
+  log(){
+    console.log("click detecté");
+  }
 }

@@ -1,4 +1,4 @@
-import { Component, Input } from '@angular/core';
+import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 @Component({
@@ -8,6 +8,6 @@ import { CommonModule } from '@angular/common';
   styleUrl: './home.css',
   standalone: true
 })
-export class Home {
-  @Input() protected welcomeMessage!: String;
+export class HomeComponent {
+  public welcomeMessage: String = "Bienvenu !";
 }

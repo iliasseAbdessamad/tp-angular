@@ -1,9 +1,14 @@
 <nav class="navbar bg-body-tertiary">
   <form class="container-fluid justify-content-start">
-    <button class="btn btn-outline-primary me-2" type="button">Home</button>
+    <button routerLink="/" class="btn btn-outline-primary me-2" type="button" (click)="log()">
+        Home
+    </button>
+    <button routerLink="/products" class="btn btn-outline-primary me-2" type="button" (click)="log()">
+        Produits
+    </button>
   </form>
 </nav>
 <main class="container">
-    <app-sitehome [welcomeMessage]="appWelcomeMesage"></app-sitehome>
+    <router-outlet></router-outlet>
 </main>
 
