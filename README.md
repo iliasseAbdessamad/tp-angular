@@ -81,7 +81,7 @@ et injecte `product.html` dans l'élément **router-outlet** d'angular
 
 ### Cliquer sur le boutton "Mettre à jour" pour enregistrer les modifications :
 
-<img src="./imgs/product_list3.png" alt="Mise à jour effectuée" />
+<img src="./imgs/products_list3.png" alt="Mise à jour effectuée" />
 
 <br />
 
@@ -93,7 +93,7 @@ et injecte `product.html` dans l'élément **router-outlet** d'angular
 
 ### Confirmez la suppréssion :
 
-<img src="./imgs/product_list4.png" alt="Suppréssion" />
+<img src="./imgs/products_list4.png" alt="Suppréssion" />
 
 <br />
 <hr />
