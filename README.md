@@ -3,6 +3,8 @@
 L'objectif de ce TP, est de se familiariser avec les concepts de base du **Framework Angular**, via la 
 réalisation d'une application de gestion de produits.
 
+<br /><br />
+
 ## 📦 Dépendences de l'application
 
 **Angular 20** : Framework javascript pour le rendu HTML côté client <br />
