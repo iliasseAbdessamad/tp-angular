@@ -28,17 +28,17 @@ npm -v
 git clone https://github.com/iliasseAbdessamad/tp-angular.git
 ```
 
-2 - Accédez au répertoir racine du projet :
+3 - Accédez au répertoir racine du projet :
 ```
 cd your_home_directory/tp-angular
 ```
 
-3 - Installez les dépendences de l'application : 
+4 - Installez les dépendences de l'application : 
 ```
 npm install
 ```
 
-4 - Lancez l'application : 
+5 - Lancez l'application : 
 ```
 npx ng serve
 ```
